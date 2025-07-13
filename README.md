@@ -13,6 +13,17 @@ A competition for aspiring innovators to devise creative and sustainable solutio
 <img width="1111" height="456" alt="image" src="https://github.com/user-attachments/assets/0b7c58bf-b722-4bef-8cd8-d6cffd769ab9" />
 
 ## My Submission:
+Topic Name: Attachable Handbike for Manual Wheelchair
+
+covering:
+1. Theme background
+2. Describing Social Innovation idea and its key characteristics
+3. Novelty and Uniqueness of Social innovation idea
+4. Relevance to address current social problems
+5. Effectiveness of the Social Innovation idea/concept
+6. Ecological sustainability of the idea
+7. Scale of impact of Social innovation idea and its wide applicability.
+8. References
 
 
 ## Outcome:
