@@ -5,6 +5,8 @@ A competition for aspiring innovators to devise creative and sustainable solutio
 1. Center for Society and Policy, Indian Institute of Science, Bangalore, India
 2. India-Japan Laboratory at Keio University, Japan
 
+## Evaluation Criteria:
+<img width="1111" height="456" alt="image" src="https://github.com/user-attachments/assets/0b7c58bf-b722-4bef-8cd8-d6cffd769ab9" />
 
 # My Submission:
 
